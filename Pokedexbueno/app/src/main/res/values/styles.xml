@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <!-- Otros atributos personalizados de estilo aquí, si los tienes -->
+    </style>
+
+    <!-- Estilo para la actividad sin barra de acción -->
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Otros atributos personalizados de estilo aquí, si los tienes -->
+    </style>
+</resources>
